@@ -27,6 +27,7 @@ print(sum_covid)
 
 
 markdown_table += '\n## COVID-19 New Cases by Region (per 1 million people)\n'
+markdown_table += '* Total new cases: {}\n\n'.format(sum_covid)
 markdown_table += '| Region | New Cases (per 1M) | Ratio (%) | Amount of New Cases |\n'
 markdown_table += '| ------ | ------------------ | --------- | --------------------- |\n'
 for idx, cases in enumerate(norm_covid):
