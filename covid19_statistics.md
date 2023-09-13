@@ -22,6 +22,7 @@
 | Sejong | 365309 | 0.7 |
 
 ## COVID-19 New Cases by Region (per 1 million people)
+* Total new cases: 1714
 | Region | New Cases (per 1M) | Ratio (%) | Amount of New Cases |
 | ------ | ------------------ | --------- | --------------------- |
 | Seoul | 644 | 37.6 | 67.4 |
