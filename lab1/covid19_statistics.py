@@ -1,3 +1,4 @@
+
 #Li Yury 22102550
 import sys
 def normalize_data(n_cases, n_people, scale):
