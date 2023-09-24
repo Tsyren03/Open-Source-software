@@ -1,0 +1,3 @@
+# Turtle Runaway game
+> ### by 이유리 22102550
+This program is a game in which the _**player**_ (red turtle) has to chase the _**bot**_ (blue turtle). The game has a _**timer**_ for 30 seconds, when time runs out the game ends. Also, it has a _**score counter**_, when the game ends the amount of gathered points will be shown. To gain points you need to catch the bot turtle, when you touch it, the bot will respawn in a random place in the arena. Also, the player and bot can't go outside the arena. To control the turtle is used _**arrows**_ on a keyboard.  I hope my game will be fun!
